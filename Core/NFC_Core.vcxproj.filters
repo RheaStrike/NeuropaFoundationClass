@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{A1B2C3D4-E5F6-47A8-B9C0-D1E2F3A4B5C6}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{B2C3D4E5-F6A7-48B9-C0D1-E2F3A4B5C6D7}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="App.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Button.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Control.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Dialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DialogTemplate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GdiRenderer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HttpClient.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Label.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Network.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NinePatch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Renderer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Wnd.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="App.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Button.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Channel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CObject.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CString.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Control.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Dialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DialogTemplate.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="framework.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HttpClient.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GdiRenderer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Label.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NFC_API.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NinePatch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NetworkManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Renderer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SkinRegion.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Socket.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Wnd.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
